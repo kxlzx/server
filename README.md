@@ -1,2 +1,1 @@
-# SSEncrypt.module
-Shadowsocks Module For Surge
+fffffff
